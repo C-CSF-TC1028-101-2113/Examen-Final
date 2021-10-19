@@ -21,8 +21,8 @@ Cero o más valores enteros, uno en cada renglón. Finaliza la captura con un *.
 
 ## Salida
 Se despliega la lista completa de calificaciones.
-Se muestra el promedio final obtenido por el alumno eun un renglon aparte.
-Se muestra la calificacion maxima y minima obtenida por el alumno usando el siguiente formato:
+Se muestra el promedio final obtenido por el alumno en un renglon aparte.
+Se muestra la calificacion maxima y minima obtenida por el alumno en un renglon aparte, usando el siguiente formato:
 ```
 Calificación mayor: XX Calificación menor: XX
 ```
