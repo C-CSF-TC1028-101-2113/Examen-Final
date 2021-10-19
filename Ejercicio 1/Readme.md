@@ -19,7 +19,7 @@ A continuación el programa debe mostrar todas las calificaciones, el promedio f
 Las calificaciones las introduce el usuario una por una y se iran almacenando en una lista. Posteriormente se analizará la lista para determinar lo que el programa solicita.
 
 ## Entrada
-Cero o más valores enteros, uno en cada renglón. Finaliza la captura con un *.
+Un número entero que representa la cantidad de valores que tiene la lista, asi como cada uno de los valores de la lista.
 
 ## Salida
 Se despliega la lista completa de calificaciones.
