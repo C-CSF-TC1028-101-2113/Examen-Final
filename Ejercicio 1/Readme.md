@@ -47,7 +47,7 @@ Calificación mayor: 10 Calificación menor: 6
 ```
 ### Entrada
 ```
->>> *
+>>> 0
 ```
 ### Salida
 ```
