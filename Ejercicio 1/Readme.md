@@ -12,9 +12,11 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Diseña e implementa un programa que lea por teclado las calificaciones obtenidas por un alumno (Numeros enteros comprendidos entre 0 y 10). A continuación el programa debe mostrar todas las calificaciones, el promedio final del alumno, la calificacion más alta que ha sacado y la mas baja.
+Diseña e implementa un programa que primero lea la cantidad de elementos que el usuario va a ingresar, después acepté cada uno de los elementos que ingrese el usuario. Estos elementos representaran las calificaciones obtenidas por un alumno (Numeros enteros comprendidos entre 0 y 10). 
 
-Los valores los introduce el usuario uno por uno, se van almacenando en una lista y posteriormente se analizará la lista para determinar lo que el programa solicita.
+A continuación el programa debe mostrar todas las calificaciones, el promedio final del alumno, la calificacion más alta que ha sacado y la mas baja.
+
+Las calificaciones las introduce el usuario una por una y se iran almacenando en una lista. Posteriormente se analizará la lista para determinar lo que el programa solicita.
 
 ## Entrada
 Cero o más valores enteros, uno en cada renglón. Finaliza la captura con un *.
@@ -30,12 +32,12 @@ Calificación mayor: XX Calificación menor: XX
 ## Ejemplo de ejecución del programa
 ### Entrada
 ```
+>>> 5
 >>> 8
 >>> 9
 >>> 10
 >>> 6
 >>> 7
->>> *
 ```
 ### Salida
 ```
