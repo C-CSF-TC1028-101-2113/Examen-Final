@@ -18,6 +18,8 @@ A continuación el programa debe mostrar todas las calificaciones, el promedio f
 
 Las calificaciones las introduce el usuario una por una y se iran almacenando en una lista. Posteriormente se analizará la lista para determinar lo que el programa solicita.
 
+Si el usuario ingresa 0 como primer valor, el programa debe regresar una lista vacia y definir el promedio, calificación mas alta y calificación mas baja como 0.
+
 ## Entrada
 Un número entero que representa la cantidad de valores que tiene la lista, asi como cada uno de los valores de la lista.
 
@@ -26,7 +28,7 @@ Se despliega la lista completa de calificaciones.
 Se muestra el promedio final obtenido por el alumno en un renglon aparte.
 Se muestra la calificacion maxima y minima obtenida por el alumno en un renglon aparte, usando el siguiente formato:
 ```
-Calificación mayor: XX Calificación menor: XX
+Calificación mas alta: XX Calificación mas baja: XX
 ```
 
 ## Ejemplo de ejecución del programa
@@ -43,7 +45,7 @@ Calificación mayor: XX Calificación menor: XX
 ```
 [8, 9, 10, 6, 7]
 Promedio: 8
-Calificación mayor: 10 Calificación menor: 6
+Calificación mas alta: 10 Calificación mas baja: 6
 ```
 ### Entrada
 ```
@@ -53,5 +55,5 @@ Calificación mayor: 10 Calificación menor: 6
 ```
 []
 Promedio: 0
-Calificación mayor: 0 Calificación menor: 0
+Calificación mas alta: 0 Calificación mas baja: 0
 ````
