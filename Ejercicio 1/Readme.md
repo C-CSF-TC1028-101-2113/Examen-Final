@@ -13,6 +13,7 @@ if __name__ == '__main__':
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
 Diseña e implementa un programa que lea por teclado las calificaciones obtenidas por un alumno (comprendidas entre 0 y 10). A continuación el programa debe mostrar todas las calificaciones, el promedio final del alumno, la calificacion más alta que ha sacado y la mas baja.
+
 Los valores los introduce el usuario uno por uno, se van almacenando en una lista y posteriormente se analizará la lista para determinar lo que el programa solicita.
 
 ## Entrada
